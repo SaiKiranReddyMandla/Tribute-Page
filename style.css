@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+   
+}
+
+.sub-section{
+    width: 100%;
+    height: auto;
+    text-align: center; 
+    
+}
+
+.sub-section .virat-img{
+    width: 250px;
+    height: 300px;
+    margin-top: 25px;
+    border-radius: 10px;
+}
+
+.sub-section .main-header{
+    margin: 10px;
+    font-size: 40px;
+    color: brown;
+    text-decoration: underline;
+}
+
+.sub-section p{
+    margin: 10px;
+    color: brown;
+}
+
+.sub-section span{
+    color: brown; 
+    font-weight: bold;
+    font-style: italic;
+}
+
+.about-sec {
+    margin: auto;
+    width: 80%;
+    margin-top: 50px;
+}
+
+.about-heading{
+    margin: 10px 0;
+    padding-left: 5px;
+    color: brown; 
+}
+
+.about-sec .about-para{
+    padding: 5px;
+    color: rgb(31, 63, 65);
+    line-height: 22px;
+    word-spacing: 2px;
+    text-align: justify;
+}
+
+.carrer-info{
+    margin: auto;
+    width: 80%;
+    color: rgb(31, 63, 65);
+}
+
+.info-head{
+    display: inline-block;
+    font-size:medium;
+    font-weight: bolder;
+    width: 15%;
+    text-align: start;
+    padding: 10px 0;
+    padding-left: 80px;
+    padding-right: 2px;
+}
+
+.info-link{
+    display: inline-block;
+    width: 70%;
+    text-align: left;
+    padding: 10px 0;
+}
+
+table{
+    width: 100%;   
+}
+table, th, td{
+    border: 1px solid rgb(247, 0, 0);
+    padding: 10px;
+    border-collapse: collapse;
+    text-align: center;
+    margin: 20px 0;
+}
+
+th{
+    width: 250px;
+}
+
+.honours-main{
+    width: 80%;
+    margin: auto;
+    color: rgb(31, 63, 65);
+}
+
+.sub-heading{
+    margin: 10px 0;
+    padding-left: 5px;
+    color: brown; 
+   margin-left: 150px;
+}
+
+.honour-list {
+    word-spacing: 2px;
+    margin-left: 50px;
+    line-height: 30px;
+}
+
+footer{
+    margin: 20px;
+    float: right;
+    color: rgb(31, 63, 65);
+}
